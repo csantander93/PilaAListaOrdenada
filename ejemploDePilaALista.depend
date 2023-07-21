@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689968143 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplodepilaalista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1689965896 d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplodepilaalista\lista.h
+
+1689968310 source:d:\unla pc\2do aÑo\materias\1er cuatrimestre\2 -algoritmos y estructuras de datos (8609 tn 18 a 22hs martes presencial)\proyectos de practica para el final\ejemplodepilaalista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
